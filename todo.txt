@@ -1,3 +1,4 @@
 complete git tut
 meet madhu sir
 do javascript basics
+have good dinner outside
