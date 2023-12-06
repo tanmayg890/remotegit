@@ -11,3 +11,7 @@ new command 6
 cmd 7
 cmd 8
 cmd 9
+cmd 10
+cmd 11
+cmd 12
+
