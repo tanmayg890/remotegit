@@ -8,4 +8,5 @@ new command 3
 new command 4
 new command 5
 new command 6
-
+cmd 7
+cmd 8
