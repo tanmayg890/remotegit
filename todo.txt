@@ -4,3 +4,5 @@ do javascript basics
 have good dinner outside
 new command 1
 new command 2
+new command 3
+
