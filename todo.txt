@@ -10,3 +10,4 @@ new command 5
 new command 6
 cmd 7
 cmd 8
+cmd 9
